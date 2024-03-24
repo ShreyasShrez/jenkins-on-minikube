@@ -1,1 +1,1 @@
-# jenkins-on-minikube
+# POC on how to install Jenkins on minikube cluster
