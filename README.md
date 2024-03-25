@@ -2,9 +2,9 @@
 
 Pre-requisities:
 
-`kubectl` - brew install kubectl
+kubectl - `brew install kubectl`
 
-`kubernetes-helm` - brew install kubernetes-helm
+kubernetes-helm - `brew install kubernetes-helm`
 
 1. Start your Minikube server and get the dashboard up and running
 
